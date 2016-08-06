@@ -1,0 +1,37 @@
+_repo: Autobiographical-Sketches_11376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Wood, Annie
+    - Besant, Annie Wood
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: '"Annie Wood Besant (1847-1933) was a problematic and notorious figure
+  in Victorian England, questioning and then breaking from the Anglican Church to
+  become an atheist, women''s rights advocate, and Freethinker. As editor of her own
+  journal, Our Corner, she responded to inquiries about her life experiences by serializing
+  her life story, which was published in 1885. After providing a vivid account of
+  her trial, along with Charles Bradlaugh, for the right to publish birth control
+  literature, Besant recounts her heartbreaking trial for custody of her daughter.'
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women authors, English -- Biography'
+- !lcc 'BP'
+- !lcsh 'Women''s rights -- Great Britain -- History -- 19th century'
+- !lcsh 'Besant, Annie, 1847-1933'
+- !lcsh 'Women social reformers -- Great Britain -- Biography'
+- GITenberg
+title: Autobiographical Sketches
+url: http://www.gutenberg.org/ebooks/11376
