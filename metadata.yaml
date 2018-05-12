@@ -1,5 +1,8 @@
 _repo: Autobiographical-Sketches_11376
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Besant, Annie
@@ -18,6 +21,8 @@ description: '"Annie Wood Besant (1847-1933) was a problematic and notorious fig
   her life story, which was published in 1885. After providing a vivid account of
   her trial, along with Charles Bradlaugh, for the right to publish birth control
   literature, Besant recounts her heartbreaking trial for custody of her daughter.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11376#Autobiographical-Sketches
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
